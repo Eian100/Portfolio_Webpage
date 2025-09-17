@@ -38,9 +38,9 @@ return <section ide = "about" className="py-24 px-4 relative">
                                 <Code className="h-6 w-6 text-primary"/>
                             </div>
                             <div className="text-left">
-                                <h4 className="font-semibold text-lg"> Web Development</h4>
+                                <h4 className="font-semibold text-lg"> Full-Stack development</h4>
                                 <p className="text-muted-foreground">
-                                    Proficient in HTML, CSS, JavaScript, and modern frameworks like React and Vue.js to build responsive and user-friendly web interfaces.
+                                    Proficient in both front-end and back-end technologies, enabling the creation of comprehensive web applications and softwares.
                                 </p>
                             </div>
                         </div>
@@ -50,12 +50,24 @@ return <section ide = "about" className="py-24 px-4 relative">
                             <div className="p03 rounded-full bg-primary/10">
                                 <User className="h-6 w-6 text-primary"/>
                             </div>
+                            <div className="text-left">
+                                <h4 className="font-semibold text-lg"> UI/UX Designs </h4>
+                                <p className="text-muted-foreground">
+                                    Skilled in designing intuitive and visually appealing user interfaces that enhance user experience and engagement.
+                                </p>
+                            </div>
                         </div>
                     </div>
                     <div className="gradient-border p-6 card-hover">
                     <div className="flex items-start gap-4">
                             <div className="p03 rounded-full bg-primary/10">
                                 <Briefcase className="h-6 w-6 text-primary"/>
+                            </div>
+                            <div className="text-left">
+                                <h4 className="font-semibold text-lg"> Project Dev / Management</h4>
+                                <p className="text-muted-foreground">
+                                    Experienced in leading development projects from concept to completion, ensuring timely delivery and quality outcomes.
+                                </p>
                             </div>
                         </div>
                     </div>
